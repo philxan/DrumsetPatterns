@@ -4,10 +4,14 @@
 // <Feet pattern>
 //
 // Each pattern is a list of number-letter combinations
-// - the number of 16ths notes, and one or more letters indicating the instruments played
+// - The number is the duration of 16ths notes to be play. This can be 1, 2 (8th note), 3, 4 (quarter note), 6 (dotted quarter note), 7, or 8 (half note).
+// - Note that '5' is NOT supported. Triplets are not supported at this time. 
+// - The letters indicate the instruments played for that duration as per the instruments listed below. 
+// A space is required after each number-letter combination, but the amount doesn't matter. 
+// It is recommended to use spaces to help line up the hands & feet patterns, so its easier to read. 
 // 
 // Use "-" to separate beats in a bar.
-// Use "|" to separate bars. 
+// Use "|" to separate bars. The last bar doesn't need to have a | at the end of it.
 //
 // 0 or .  - rest
 // !       - accent 
@@ -27,12 +31,18 @@
 //    B - Bass Drum
 //    P - Highhat pedal
 //
-// A sample 2-bar pattern  with closed hi-hats on the 8th notes, 
-// snare on 2 & 4, and bass drum on 1 & 3.  Some  ariation in the second bar
+// A couple of sample patterns 
+// 1. Closed hi-hats on the 8th notes, snare on 2 & 4, and bass drum on 1 & 3.  Some variation in the second bar
+// 2. 1 bar in 5-4, showing how to use accents and ties. 
 //
-//Sample Pattern Name
+//Sample Pattern 1. 
 //Sample Pattern Category, Rock, Pop
 //2H 2H - 2SH 2H - 2H 2H - 2SH 2H  | 2H 1H 1H - 2SH 2H - 2H 1H 1H - 2SH 2H  
 //4B    - 4.     - 4B    - 4.      | 4B       - 2.  2B - 4B       - 2.  2B
+//
+//Sample Patter With Accents and Ties
+//Sample Pattern Category, 5/4, Odd Time
+//2H 1H 1SH!+ - 4SH    - 3H  1H+ - 1H 2H! 1SH+ - 2SH! 2H
+//2B 2B       - 2B 2B  - 2B 2B   - 2B   2B     - 2B  2B
 //
 
