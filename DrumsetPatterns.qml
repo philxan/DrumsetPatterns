@@ -324,11 +324,11 @@ MuseScore {
 
     // to add a category based on filename, but remove the ".dp" extension
     var fileNameTrimmed = filename.substr(0, filename.length-3).trim();    
-    filesListModel.append({"name": fileNameTrimmed});    
     var categories = [];
          
     var fileContents = patternFile.read();
-    var lines = fileContents.split(/\r?\n/);        
+    var lines = fileContents.split(/\r?\n/);  
+    var patternAdded = false;
 
     for (var lineNo = 0; lineNo < lines.length; lineNo++)
     {
@@ -367,6 +367,12 @@ MuseScore {
         "Categories": categories, 
         "Hands": hands, 
         "Feet": feet };
+      patternAdded = true;
+    }
+
+    if (patternAdded) 
+    {
+      filesListModel.append({"name": fileNameTrimmed});    
     }
   }
 
