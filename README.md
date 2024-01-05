@@ -50,17 +50,17 @@ To use the plugin:
 Included Patterns
 -----------------
 There are a number of patterns included, in various source files. 
-*Blues* a variety of Blues, Blues Rock and R&B patterns. Predominantly in 6/8. 
-*Caribbean* Calypso, Reggae, and Soca
-*Cuban* Afro-Cuban 6/8, and Guaguanco 
-*Dance* Electronic, Dance & Hip-hop
-*Funk* Funk and funk infused Rock, Pop & Disco 
-*Fusion* Fusion and Steve Gadd inspired grooves
-*Latin* Baion, Boogaloo, Bossa Nova, Cha-Cha, Gospel-Latin, Mambo, Samba & Songo
-*Odd Time* 5/4, 7/4 and 6/4 grooves
-*Rock* Rock, Rock-pop and Indie-Rock patterns
-*Shuffle* Shuffle and Halftime Shuffle grooves
-*Swing* Classic Swing, Basie grooves and jazz rhythms
+* **Blues** a variety of Blues, Blues Rock and R&B patterns. Predominantly in 6/8. 
+* **Caribbean** Calypso, Reggae, and Soca
+* **Cuban** Afro-Cuban 6/8, and Guaguanco 
+* **Dance** Electronic, Dance & Hip-hop
+* **Funk** Funk and funk infused Rock, Pop & Disco 
+* **Fusion** Fusion and Steve Gadd inspired grooves
+* **Latin** Baion, Boogaloo, Bossa Nova, Cha-Cha, Gospel-Latin, Mambo, Samba & Songo
+* **Odd Time** 5/4, 7/4 and 6/4 grooves
+* **Rock** Rock, Rock-pop and Indie-Rock patterns
+* **Shuffle** Shuffle and Halftime Shuffle grooves
+* **Swing** Classic Swing, Basie grooves and jazz rhythms
 
 
 
