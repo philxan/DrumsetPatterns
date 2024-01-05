@@ -62,6 +62,6 @@ There are a number of patterns included, in various source files.
 * **Shuffle** Shuffle and Halftime Shuffle grooves
 * **Swing** Classic Swing, Basie grooves and jazz rhythms
 
-
-
-
+Creating Your Own Patterns
+--------------------------
+Also included is the _template.dp_ file.  This can be used as a template for creating your own patterns. This text file contains all the information needed to create patterns for use by the plugin. The first step will be uncomment the Sample Pattern at the end of the file, and reload the plugin. The Template source and Sample Pattern will vwe included in the dialog. 
