@@ -1,0 +1,38 @@
+// <pattern name>
+// <categories> - a comma separated list of category names
+// <Hand pattern>
+// <Feet pattern>
+//
+// Each pattern is a list of number-letter combinations
+// - the number of 16ths notes, and one or more letters indicating the instruments played
+// 
+// Use "-" to separate beats in a bar.
+// Use "|" to separate bars. 
+//
+// 0 or .  - rest
+// !       - accent 
+// +       - tie to the next note
+// 
+// Voice 1 (hands) instruments:
+//    Common              Toms             Miscellaneous
+//    S - Snare           I - High Tom     W - Cowbell
+//    T - Rimshot         J - Medium Tom   U - Tambourine
+//    H - Closed Hi-hat   K - Low Tom      X - Chinese Symbol 
+//    O - Open Hi-hat     L - Floor Tom    Y - Splash
+//    C - Crash                            Z - Hand clap
+//    R - Ride
+//    D - Ride Bell
+//
+// Voice 2 (feet) instruments:
+//    B - Bass Drum
+//    P - Highhat pedal
+//
+// A sample 2-bar pattern  with closed hi-hats on the 8th notes, 
+// snare on 2 & 4, and bass drum on 1 & 3.  Some  ariation in the second bar
+//
+// Sample Pattern Name
+// Sample Pattern Category, Rock, Pop
+// 2H 2H - 2SH 2H - 2H 2H - 2SH 2H  | 2H 1H 1H - 2SH 2H - 2H 1H 1H - 2SH 2H  
+// 4B.   - 4.     - 4B    - 4.      | 4B.      - 2.  2B - 4B       - 2.  2B
+//
+
