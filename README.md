@@ -28,5 +28,40 @@ Note: Applying a pattern will insert as many copies of the pattern that will fit
 
 Note also that time signature categories are only indications of how the pattern is intended to be used - it is not at all restrictive. It is certainly possible to use a pattern intended for 6/8 in 4/4, with some very interesting and possibly useful results! it will be likley that there will be incomplete bars at the end. But try it - it can result in some fun rhythms and unexpected fills!
 
+Installation
+-------------
+To install the plugin:
+1. Download the file DrumsetPatterns-1.0.zip
+1. Expand the zip file. The result is a folder "WalkingBass-1.0"
+1. Move the WalkingBass folder into your MuseScore Plugins folder, which can be found here (for MuseScore 4)
+   * Windows: %HOMEPATH%\Documents\MuseScore4\Plugins
+   * Mac: ~/Documents/MuseScore4/Plugins
+   * Linux: ~/Documents/MuseScore4/Plugins
+   * for MuseScore 3.3, replace "MuseScore4" with "MuseScore3" in the paths above. 
+1. Launch MuseScore
+1. Select the menu item Plugins > Plugin Manager...
+1. Enable Drumset Patterns
+   
+To use the plugin:
+1. Select the menu item Plugins > Drumset Patterns The Drumset Patterns dialog will be opened. 
+1. Select any number of bars in the staff where you want the drumset patterns to be generated.  This should be a drumset instrument staff. 
+1. Follow the instructions above to select an appropriate patten, and click Apply.
+
+Included Patterns
+-----------------
+There are a number of patterns included, in various source files. 
+*Blues* a variety of Blues, Blues Rock and R&B patterns. Predominantly in 6/8. 
+*Caribbean* Calypso, Reggae, and Soca
+*Cuban* Afro-Cuban 6/8, and Guaguanco 
+*Dance* Electronic, Dance & Hip-hop
+*Funk* Funk and funk infused Rock, Pop & Disco 
+*Fusion* Fusion and Steve Gadd inspired grooves
+*Latin* Baion, Boogaloo, Bossa Nova, Cha-Cha, Gospel-Latin, Mambo, Samba & Songo
+*Odd Time* 5/4, 7/4 and 6/4 grooves
+*Rock* Rock, Rock-pop and Indie-Rock patterns
+*Shuffle* Shuffle and Halftime Shuffle grooves
+*Swing* Classic Swing, Basie grooves and jazz rhythms
+
+
 
 
