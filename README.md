@@ -69,7 +69,7 @@ Also included is the _template.dp_ file.  This can be used as a template for cre
 Known Limitations
 -----------------
 * At times there are issues with generating a pattern in the last bar of a score.
-* DrumSet Patters doesn't display correctly in MuseScore's dark mode. This is appears to be an issue with the Qt control set. 
+* Drumset Patterns doesn't display correctly in MuseScore's dark mode. This is appears to be an issue with the Qt control set. 
 * Do not use the '5' as the number of 16th notes in a pattern. Instead, use a tie (+) from one to another. (e.g. 1S+ 4S.)
 * The smallest note that be generated is a 16th note. Currently 32nd notes aren't supported.
 * Triplets are also not supported at this time. 
