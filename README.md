@@ -64,11 +64,12 @@ There are a number of patterns included, in various source files.
 
 Creating Your Own Patterns
 --------------------------
-Also included is the _template.dp_ file.  This can be used as a template for creating your own patterns. This text file contains all the information needed to create patterns for use by the plugin. The first step will be uncomment the Sample Pattern at the end of the file, and reload the plugin. The Template source and Sample Pattern will vwe included in the dialog. 
+Also included is the _template.dp_ file.  This can be used as a template for creating your own patterns. This text file contains all the information needed to create patterns for use by the plugin. The first step will be uncomment the Sample Pattern at the end of the file, and reload the plugin. The Template source and Sample Pattern will be included in the dialog. 
 
 Known Limitations
 -----------------
 * At times there are issues with generating a pattern in the last bar of a score.
+* DrumSet Patters doesn't display correctly in MuseScore's dark mode. This is appears to be an issue with the Qt control set. 
 * Do not use the '5' as the number of 16th notes in a pattern. Instead, use a tie (+) from one to another. (e.g. 1S+ 4S.)
 * The smallest note that be generated is a 16th note. Currently 32nd notes aren't supported.
 * Triplets are also not supported at this time. 
