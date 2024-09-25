@@ -1,4 +1,3 @@
-TestPatterns.dp 
 Blues.dp
 Caribbean.dp
 Cuban.dp
